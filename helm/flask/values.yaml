@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: summaryexperts/flask-ai-app:2e39c07d27956d29026e781226cbc642cd536740
+  repository: summaryexperts/flask-ai-app:8f778991128b3180ba9ceb71ce5eb729b20895d2
   tag: latest
   pullPolicy: Always
 
